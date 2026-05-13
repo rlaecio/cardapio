@@ -1,2 +1,2 @@
 # cardapio
-Lear PHP with Cinel
+Learn PHP with Cinel
